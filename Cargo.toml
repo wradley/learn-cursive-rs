@@ -7,3 +7,5 @@ edition = "2021"
 
 [dependencies]
 cursive = { version = "0.20", default-features = false, features = ["crossterm-backend"] }
+strum = "0.24"
+strum_macros = "0.24"
